@@ -37,8 +37,7 @@ SO THAT I don't have to pay a graphic designer
 * [Inquirer.js](https://www.npmjs.com/package/inquirer/v/8.2.4)
 
 ## Tests
-[APP DEMO VIDEO]
+[APP DEMO VIDEO] (https://drive.google.com/file/d/1IR0MU0vrbRWcM3zoydBb7kBtxhXEaXRu/view)
 * Tests are conducted using Jest through the command "npm test" in the terminal
 * The shapes.test.js file can be found in the lib folder
 * Each shape has a specific test, for a total of 3 tests
-* Jest Test: 3 PASSED
