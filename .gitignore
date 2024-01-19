@@ -1,0 +1,3 @@
+//files I want ignored by Git
+.DS_Store
+node_modules
